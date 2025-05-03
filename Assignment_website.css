@@ -1,0 +1,53 @@
+.sub {
+    background-color: rgba(157, 186, 222, 0.776);
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-image: url(sat1.jpg);
+    color: aliceblue;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    text-align: justify;
+}
+
+.sub {
+    background-color: rgba(157, 186, 222, 0.776);
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-image: url(sat1.jpg);
+    color: aliceblue;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    text-align: justify;
+}
+
+
+
+h2 {
+    word-spacing: 2px;
+    background-image: url(1.jpg);
+    margin: 35px 50px 50px;
+    padding: 30px 5px 30px 5px;
+    border-style: double;
+}
